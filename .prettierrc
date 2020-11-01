@@ -1,0 +1,13 @@
+{
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "semi": false,
+  "comaDangle": false,
+  "singleQuote": true,
+  "jsxBracketSameLine": true,
+  "vueIndentScriptAndStyle": true,
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "printWidth": 150,
+  "arrowParens": "avoid"
+}
